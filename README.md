@@ -5,7 +5,7 @@
 </font>
 
 
-# [Book](./basic.html)
+# Book
 
 * Practice
     *  Deep Learning with Keras

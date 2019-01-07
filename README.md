@@ -1,4 +1,4 @@
-![mahua](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/AI-ML-DL.png)
+![Picture](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/AI-ML-DL.png)
 
 <span style="color:red;">Artificaial Intelligence、Machine Learning & Deep Learing Material
 

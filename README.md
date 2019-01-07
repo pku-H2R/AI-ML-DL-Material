@@ -8,7 +8,7 @@ This project aims to collect some important artificial intelligence, machine lea
 
 * Practice
     *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
-    *  Deep Learning with Python
+    *  [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
     *  Machine Learning Yearning_English
     *  Machine Learning Yearning_Chinese
     *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)

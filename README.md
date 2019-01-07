@@ -59,15 +59,15 @@ Conference
     * NeurIPS
     * AAAI
     * IJAI
-* CV
+* Computer Vision
     * CVPR
     * ECCV
-* NLP
+* Natural Language Processing
     * ACL
     * EMNLP
-* DL
+* Deep Learning
     * ICLR
-* DM
+* Data Mining
     * KDD
 
 

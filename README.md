@@ -37,9 +37,38 @@ Course
     *  Sequence Models
     
 * Hsuan-Tien Lin
-    * [Machine Learning Foundations](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)
+    * [Machine Learning Foundatins](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)
     * [Machine Learning Techniques](https://www.bilibili.com/video/av12469267/)
 
+* [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)
+
+Website
+
+* Practice
+    * [Kaggle](https://www.kaggle.com/)
+    * [Analytics Vidhya](https://www.analyticsvidhya.com/)
+
+* Theory
+    * [arXiv](https://arxiv.org)
+    * [Manning](https://www.manning.com/)
+
+Conference
+
+* Synthesis
+    * ICML
+    * NeurIPS
+    * AAAI
+    * IJAI
+* CV
+    * CVPR
+    * ECCV
+* NLP
+    * ACL
+    * EMNLP
+*DL
+    * ICLR
+*DM
+    * KDD
 
 
 

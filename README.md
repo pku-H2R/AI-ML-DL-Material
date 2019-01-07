@@ -30,11 +30,13 @@ This project aims to collect some important artificial intelligence, machine lea
 # Course
 
 *  [Andrew Y.Ng](https://www.deeplearning.ai/deep-learning-specialization/)
-    *  Neural Networks and Deep Learning
-    *  Improving Deep Neural Networks
-    *  Structuring Machine Learning Projects
-    *  Convolutional Neural Networks
-    *  Sequence Models
+    *  [Machine Learning](https://study.163.com/course/introduction.htm?courseId=1004570029&_trace_c_p_k2_=f8135eba8b2a4655a992989a04a6ef1a)
+    *  [Deep Learning](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+         *  Neural Networks and Deep Learning
+         *  Improving Deep Neural Networks
+         *  Structuring Machine Learning Projects
+         *  Convolutional Neural Networks
+         *  Sequence Models
     
 * Hsuan-Tien Lin
     * [Machine Learning Foundatins](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)

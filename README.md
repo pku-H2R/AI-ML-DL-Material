@@ -5,7 +5,7 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
 
 
 
-Book
+# Book
 
 * Practice
     *  Deep Learning with Keras
@@ -28,7 +28,7 @@ Book
         * Python Machine Learning
         * Neural Networks and Deep Learning
 
-Course
+# Course
 
 *  [Andrew Y.Ng](https://www.deeplearning.ai/deep-learning-specialization/)
     *  Neural Networks and Deep Learning
@@ -49,7 +49,7 @@ Course
     * [CS230(DL)](https://web.stanford.edu/class/cs230/)
     * [CS234(RL)](http://web.stanford.edu/class/cs234/index.html)
 
-Website
+# Website
 
 * Practice
     * [Kaggle](https://www.kaggle.com/)
@@ -59,7 +59,7 @@ Website
     * [arXiv](https://arxiv.org)
     * [Manning](https://www.manning.com/)
 
-Conference
+# Conference
 
 * Synthesis
     * ICML

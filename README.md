@@ -79,6 +79,15 @@ This project aims to collect some important artificial intelligence, machine lea
 * Data Mining
     * KDD
 
+# Knowledge Framework
+
+* Computer Science
+* Mathematics
+    * Linear Algebra
+    * Probability Theory
+    * Calculus
+ * Statistics
+ 
 
 
 

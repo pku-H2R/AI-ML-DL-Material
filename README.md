@@ -8,7 +8,7 @@ This project aims to collect some important artificial intelligence, machine lea
 #### Course
 #### Website
 #### Conference
-#### Knowledge Framework
+#### Knowledge Framew
 #### Skill Set
 
 

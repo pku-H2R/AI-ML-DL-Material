@@ -107,11 +107,20 @@ This project aims to collect some important artificial intelligence, machine lea
             * Anaconda
             * Jupyter
          * Library
-            * Scikit-Learn
-            * Keras
-            * numpy
-            * Pandas
-            * matplotlib
+            * General
+               * numpy
+               * Pandas
+               * matplotlib
+            * Shallow Learning 
+               * Scikit-Learn
+               * XgBoost
+               * LightGBM
+               * CatBoost
+            * Deep Learning
+               * Tensorflow
+               * PyTorch
+               * Keras
+            
      * R
          * Tool
             * RStudio

@@ -89,7 +89,7 @@
 * Data Mining
     * KDD
 
-# Knowledge Frame
+# Knowledge_Frame
 
 * Computer Science
 * Mathematics
@@ -98,7 +98,7 @@
     * Calculus
  * Statistics
  
-# Skill Set
+# Skill_Set
 
 * Programming Language
      * Python

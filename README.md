@@ -1,14 +1,17 @@
 ![mahua](mahua-logo.jpg)
-##MaHua是什么?
-一个在线编辑markdown文档的编辑器
+##Artificaial Intelligence、Machine Learning & Deep Learing Material
+本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料
 
-向Mac下优秀的markdown编辑器mou致敬
 
-##MaHua有哪些功能？
 
-* 方便的`导入导出`功能
-    *  直接把一个markdown的文本文件拖放到当前这个页面就可以了
-    *  导出为一个html格式的文件，样式一点也不会丢失
+##Book
+
+* Practice
+    *  Deep Learning with Keras
+    *  Deep Learning with Python
+    *  Machine Learning Yearning_English
+    *  Machine Learning Yearning_Chinese
+    *  Hands-On Machine Learning with Scikit-Learn & TensorFlow
 * 编辑和预览`同步滚动`，所见即所得（右上角设置）
 * `VIM快捷键`支持，方便vim党们快速的操作 （右上角设置）
 * 强大的`自定义CSS`功能，方便定制自己的展示

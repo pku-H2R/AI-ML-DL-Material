@@ -10,8 +10,8 @@
 * [Course](#Course)
 * [Website](#Website)
 * [Conference](#Conference)
-* [Knowledge Frame](#Knowledge Frame)
-* [Skill Set](#Skill Set)
+* [Knowledge_Frame](#Knowledge_Frame)
+* [Skill_Set](#Skill_Set)
 
 
 # Book

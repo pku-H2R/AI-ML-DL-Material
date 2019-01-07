@@ -88,6 +88,22 @@ This project aims to collect some important artificial intelligence, machine lea
     * Calculus
  * Statistics
  
+# Skill Set
 
-
+* Programming Language
+     * Python
+         * Tool
+            * PyCharm
+            * Anaconda
+            * Jupyter
+         * Library
+            * Scikit-Learn
+            * Keras
+     * R
+     
+* Database
+     * SQL
+     * NoSQL
+     
+* Data Warehousing
 

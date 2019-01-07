@@ -1,9 +1,10 @@
-Artificaial Intelligence、Machine Learning & Deep Learing Material
+![mahua](mahua-logo.jpg)
+##Artificaial Intelligence、Machine Learning & Deep Learing Material
 本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料
 
 
 
-Book
+##Book
 
 * Practice
     *  Deep Learning with Keras
@@ -11,13 +12,21 @@ Book
     *  Machine Learning Yearning_English
     *  Machine Learning Yearning_Chinese
     *  Hands-On Machine Learning with Scikit-Learn & TensorFlow
-* 编辑和预览`同步滚动`，所见即所得（右上角设置）
-* `VIM快捷键`支持，方便vim党们快速的操作 （右上角设置）
-* 强大的`自定义CSS`功能，方便定制自己的展示
-* 有数量也有质量的`主题`,编辑器和预览区域
-* 完美兼容`Github`的markdown语法
-* 预览区域`代码高亮`
-* 所有选项自动记忆
+    
+
+* Theory
+    * Classical
+        * Deep Learning_English
+        * Deep Learning_Chinese
+        * The Elements of Statistical Learning
+        * Pattern Recognition And Machine Learning
+        * Machine Learning A Probabilistic Perspective
+    * Feature Engineering
+        * Feature Engineering for Machine Learning
+    * Others
+        * Python Machine Learning
+        * Neural Networks and Deep Learning
+
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流

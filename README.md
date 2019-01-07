@@ -10,7 +10,7 @@ This project aims to collect some important artificial intelligence, machine lea
 #### Course
 #### Website
 #### Conference
-#### Knowledge Framew
+#### Knowledge Frame
 #### Skill Set
 
 

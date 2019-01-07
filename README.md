@@ -1,8 +1,8 @@
 ![mahua](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/AI-ML-DL.png)
 
-<table><tr><td bgcolor=blue>Artificaial Intelligence、Machine Learning & Deep Learing Material
+<table><tr><font color=#00ffff size=36>Artificaial Intelligence、Machine Learning & Deep Learing Material
 
-本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料</td></tr></table>
+本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料</font></tr></table>
 
 
 # Book

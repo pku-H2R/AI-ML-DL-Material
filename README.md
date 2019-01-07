@@ -1,8 +1,7 @@
 ![Picture](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/AI-ML-DL.png)
 
-<span style="color:red;">Artificaial Intelligence、Machine Learning & Deep Learing Material
-
-本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料</span>
+# Getting Started 
+This project aims to collect some important artificial intelligence, machine learning and deep learning related books, papers, video screens, websites and other materials.
 
 
 # Book

@@ -109,7 +109,12 @@ This project aims to collect some important artificial intelligence, machine lea
          * Library
             * Scikit-Learn
             * Keras
+            * numpy
+            * Pandas
+            * matplotlib
      * R
+         * Tool
+            * RStudio
      
 * Database
      * SQL

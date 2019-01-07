@@ -38,7 +38,7 @@ This project aims to collect some important artificial intelligence, machine lea
          *  Convolutional Neural Networks
          *  Sequence Models
     
-* Hsuan-Tien Lin
+* [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/)
     * [Machine Learning Foundatins](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)
     * [Machine Learning Techniques](https://www.bilibili.com/video/av12469267/)
 

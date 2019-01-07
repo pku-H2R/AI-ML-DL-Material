@@ -1,6 +1,7 @@
-Artificaial Intelligence、Machine Learning & Deep Learing Material
+![mahua](mahua-logo.jpg)
+##Artificaial Intelligence、Machine Learning & Deep Learing Material
 
-本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料
+##本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料
 
 
 
@@ -28,7 +29,11 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
         * Neural Networks and Deep Learning
 
 
-##有问题反馈
+##Course
+    * Andrew Y.Ng
+        * Neural Networks and Deep Learning
+        * 
+        
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(dev.hubo#gmail.com, 把#换成@)

@@ -29,9 +29,11 @@
         * Neural Networks and Deep Learning
 
 ##Course
-    *  Deep Learning with Keras
-    *  Deep Learning with Python
-    *  Machine Learning Yearning_English
-    *  Machine Learning Yearning_Chinese
-    *  Hands-On Machine Learning with Scikit-Learn & TensorFlow
+
+*  Andrew Y.Ng(https://www.deeplearning.ai/deep-learning-specialization/)
+    *  Neural Networks and Deep Learning
+    *  Improving Deep Neural Networks
+    *  Structuring Machine Learning Projects
+    *  Convolutional Neural Networks
+    *  Sequence Models
     

@@ -7,7 +7,7 @@ This project aims to collect some important artificial intelligence, machine lea
 # Book
 
 * Practice
-    *  Deep Learning with Keras
+    *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
     *  Deep Learning with Python
     *  Machine Learning Yearning_English
     *  Machine Learning Yearning_Chinese

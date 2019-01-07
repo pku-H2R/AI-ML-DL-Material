@@ -5,7 +5,7 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
 
 
 
-# Book
+# [Book](./basic.html)
 
 * Practice 
     *  Deep Learning with Keras

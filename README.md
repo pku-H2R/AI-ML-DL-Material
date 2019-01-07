@@ -11,7 +11,7 @@ This project aims to collect some important artificial intelligence, machine lea
     *  Deep Learning with Python
     *  Machine Learning Yearning_English
     *  Machine Learning Yearning_Chinese
-    *  Hands-On Machine Learning with Scikit-Learn & TensorFlow
+    *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
     
 
 * Theory
@@ -24,7 +24,7 @@ This project aims to collect some important artificial intelligence, machine lea
     * Feature Engineering
         * Feature Engineering for Machine Learning
     * Others
-        * Python Machine Learning
+        * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
         * Neural Networks and Deep Learning
 
 # Course

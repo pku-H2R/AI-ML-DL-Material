@@ -89,7 +89,7 @@ This project aims to collect some important artificial intelligence, machine lea
 * Data Mining
     * KDD
 
-# Knowledge Framework
+# Knowledge Frame
 
 * Computer Science
 * Mathematics

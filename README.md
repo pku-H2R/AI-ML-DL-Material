@@ -37,7 +37,7 @@ Course
     *  Sequence Models
     
 * Hsuan-Tien Lin
-    * [Machine Learning Foundatins](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)
+    * [Machine Learning Foundations](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)
     * [Machine Learning Techniques](https://www.bilibili.com/video/av12469267/)
 
 

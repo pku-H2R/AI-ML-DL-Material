@@ -65,9 +65,9 @@ Conference
 * NLP
     * ACL
     * EMNLP
-*DL
+* DL
     * ICLR
-*DM
+* DM
     * KDD
 
 

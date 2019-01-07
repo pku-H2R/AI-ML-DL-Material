@@ -1,7 +1,7 @@
 ![Picture](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/AI-ML-DL.png)
 
 # Getting Started 
-This project aims to collect some important artificial intelligence, machine learning and deep learning related books, papers, video screens, websites and other materials.
+This project aims to collect some important artificial intelligence, machine learning and deep learning related books, papers, video, websites and other materials.
 
 
 # Book

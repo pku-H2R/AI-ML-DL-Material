@@ -1,9 +1,9 @@
-##Artificaial Intelligence、Machine Learning & Deep Learing Material
+Artificaial Intelligence、Machine Learning & Deep Learing Material
 本项目旨在收集一些重要的人工智能、机器学习、深度学习相关的书籍、论文、视屏、网站等资料
 
 
 
-##Book
+Book
 
 * Practice
     *  Deep Learning with Keras

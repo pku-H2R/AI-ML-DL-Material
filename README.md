@@ -2,7 +2,7 @@
    
 # Getting Started 
 
-```diff + This project aims to collect some important artificial intelligence, machine learning and deep learning related books, papers, video, websites and other materials.```
+This project aims to collect some important artificial intelligence, machine learning and deep learning related books, papers, video, websites and other materials.
 
    
 # Content

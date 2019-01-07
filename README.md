@@ -7,7 +7,7 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
 
 # Book
 
-## Practice
+* Practice 
     *  Deep Learning with Keras
     *  Deep Learning with Python
     *  Machine Learning Yearning_English
@@ -15,7 +15,7 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
     *  Hands-On Machine Learning with Scikit-Learn & TensorFlow
     
 
-## Theory
+* Theory
     * Classical
         * Deep Learning_English
         * Deep Learning_Chinese
@@ -30,20 +30,20 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
 
 # Course
 
-##  [Andrew Y.Ng](https://www.deeplearning.ai/deep-learning-specialization/)
+*  [Andrew Y.Ng](https://www.deeplearning.ai/deep-learning-specialization/)
     *  Neural Networks and Deep Learning
     *  Improving Deep Neural Networks
     *  Structuring Machine Learning Projects
     *  Convolutional Neural Networks
     *  Sequence Models
     
-## Hsuan-Tien Lin
+* Hsuan-Tien Lin
     * [Machine Learning Foundatins](https://www.bilibili.com/video/av1624332?from=search&seid=4625598210232104722)
     * [Machine Learning Techniques](https://www.bilibili.com/video/av12469267/)
 
-## [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)
+* [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)
 
-## Standford
+* Standford
     * [CS231n(CV)](http://cs231n.stanford.edu/)
     * [CS224n(NLP)](https://web.stanford.edu/class/cs224n/index.html)
     * [CS230(DL)](https://web.stanford.edu/class/cs230/)
@@ -51,31 +51,31 @@ Artificaial Intelligence、Machine Learning & Deep Learing Material
 
 # Website
 
-## Practice
+* Practice
     * [Kaggle](https://www.kaggle.com/)
     * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
-## Theory
+* Theory
     * [arXiv](https://arxiv.org)
     * [Manning](https://www.manning.com/)
 
 
 # Conference
 
-## Synthesis
+* Synthesis
     * ICML
     * NeurIPS
     * AAAI
     * IJAI
-## Computer Vision
+* Computer Vision
     * CVPR
     * ECCV
-## Natural Language Processing
+* Natural Language Processing
     * ACL
     * EMNLP
-## Deep Learning
+* Deep Learning
     * ICLR
-## Data Mining
+* Data Mining
     * KDD
 
 

@@ -124,6 +124,9 @@
      * R
          * Tool
             * RStudio
+         * Library
+            * e1071
+            * Keras
      
 * Database
      * SQL

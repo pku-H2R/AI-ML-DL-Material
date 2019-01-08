@@ -70,7 +70,10 @@
     * [DataFoundation](https://www.datafountain.cn/#/?from=www.mlhub123.com)
     * [DataCastle](http://www.pkbigdata.com/?from=www.mlhub123.com)
 * Theory
+    * [Sci-Hub](https://sci-hub.tw/)
     * [arXiv](https://arxiv.org)
+    * [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com)
+    * [Papers With Code](https://paperswithcode.com/?from=www.mlhub123.com)
     * [Manning](https://www.manning.com/)
 
 

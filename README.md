@@ -106,7 +106,7 @@
 
 * Computer Science
 * Mathematics
-    * Linear Algebra
+    * [Linear Algebra](http://math.mit.edu/~gs/learningfromdata/)
     * Probability Theory
     * Calculus
  * Statistics

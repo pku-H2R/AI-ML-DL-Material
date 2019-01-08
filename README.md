@@ -69,13 +69,20 @@
     * [TianChi](https://tianchi.aliyun.com/home/?from=www.mlhub123.com)
     * [DataFoundation](https://www.datafountain.cn/#/?from=www.mlhub123.com)
     * [DataCastle](http://www.pkbigdata.com/?from=www.mlhub123.com)
-* Theory
+* Paper
     * [Sci-Hub](https://sci-hub.tw/)
     * [arXiv](https://arxiv.org)
     * [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com)
     * [Papers With Code](https://paperswithcode.com/?from=www.mlhub123.com)
     * [Manning](https://www.manning.com/)
-
+* Community
+    * [DataTau](https://www.datatau.com/?from=www.mlhub123.com)
+    * [PaperWeekly](http://www.paperweekly.site/?from=www.mlhub123.com)
+    * [MathOverflow](https://mathoverflow.net/?from=www.mlhub123.com)
+* News
+    * [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen)
+    * [MIT](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com)
+ 
 
 # Conference
 

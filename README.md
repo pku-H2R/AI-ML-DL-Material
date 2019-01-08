@@ -65,7 +65,10 @@
 * Practice
     * [Kaggle](https://www.kaggle.com/)
     * [Analytics Vidhya](https://www.analyticsvidhya.com/)
-
+    * [KDD-CUP](https://www.kdd.org/kdd-cup?from=www.mlhub123.com)
+    * [TianChi](https://tianchi.aliyun.com/home/?from=www.mlhub123.com)
+    * [DataFoundation](https://www.datafountain.cn/#/?from=www.mlhub123.com)
+    * [DataCastle](http://www.pkbigdata.com/?from=www.mlhub123.com)
 * Theory
     * [arXiv](https://arxiv.org)
     * [Manning](https://www.manning.com/)

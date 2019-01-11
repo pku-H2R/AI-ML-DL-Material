@@ -79,6 +79,7 @@
     * [DataTau](https://www.datatau.com/?from=www.mlhub123.com)
     * [PaperWeekly](http://www.paperweekly.site/?from=www.mlhub123.com)
     * [MathOverflow](https://mathoverflow.net/?from=www.mlhub123.com)
+    * [Towards Data Science](https://towardsdatascience.com/)
 * News
     * [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen)
     * [MIT](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com)

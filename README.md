@@ -34,7 +34,7 @@
     * Feature Engineering
         * Feature Engineering for Machine Learning
     * Mathematics
-        * Mathematics for Machine Learning
+        * [Mathematics for Machine Learning](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Book/Theory/mathematics/Mathematics%20for%20Machine%20Learning.pdf)
     * Others
         * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
         * Neural Networks and Deep Learning

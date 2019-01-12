@@ -112,7 +112,7 @@
     * Probability Theory
     * Calculus
  * Statistics
-    * [Statistical Thinking for the 21st Century](Statistical Thinking for the 21st Century)
+    * [Statistical Thinking for the 21st Century](http://statsthinking21.org/)
  
 # Skill_Set
 

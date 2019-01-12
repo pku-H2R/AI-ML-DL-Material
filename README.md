@@ -106,6 +106,7 @@
 # Knowledge_Frame
 
 * Computer Science
+    * [Algorithms](https://github.com/jeffgerickson/algorithms)
 * Mathematics
     * [Linear Algebra](http://math.mit.edu/~gs/learningfromdata/)
     * Probability Theory

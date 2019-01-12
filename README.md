@@ -33,6 +33,8 @@
         * Machine Learning A Probabilistic Perspective
     * Feature Engineering
         * Feature Engineering for Machine Learning
+    * Mathematics
+        * Mathematics for Machine Learning
     * Others
         * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
         * Neural Networks and Deep Learning

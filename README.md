@@ -111,7 +111,7 @@
     * [Algorithms](https://github.com/jeffgerickson/algorithms)
     
     
-![Picture](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/mathematics%20for%20machine%20learning.PNG)
+![Four Pillars of Machine Learning](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Picture/mathematics%20for%20machine%20learning.PNG)
 * Mathematics
     * [Linear Algebra](http://math.mit.edu/~gs/learningfromdata/)
     * Probability Theory

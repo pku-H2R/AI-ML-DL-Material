@@ -17,11 +17,15 @@
 # Book
 
 * Practice
-    *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
-    *  [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
-    *  Machine Learning Yearning_English
-    *  Machine Learning Yearning_Chinese
-    *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
+    *  Machine Learning & Deep Learning
+       *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
+       *  [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+       *  Machine Learning Yearning_English
+       *  Machine Learning Yearning_Chinese
+       *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
+    *  Python
+       * Introduction to Machine Learning with Python
+       * Python for Data Analysis
     
 
 * Theory

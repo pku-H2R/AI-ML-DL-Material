@@ -79,6 +79,7 @@
     * [Manning](https://www.manning.com/)
 * Community
     * [DataTau](https://www.datatau.com/?from=www.mlhub123.com)
+    * [Data School](https://www.dataschool.io/)
     * [PaperWeekly](http://www.paperweekly.site/?from=www.mlhub123.com)
     * [MathOverflow](https://mathoverflow.net/?from=www.mlhub123.com)
     * [Towards Data Science](https://towardsdatascience.com/)

@@ -24,8 +24,8 @@
        *  Machine Learning Yearning_Chinese
        *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
     *  Python
-       * Introduction to Machine Learning with Python
-       * Python for Data Analysis
+       * Introduction to Machine Learning with Python(Andreas Mueller & Sarah Guido)
+       * Python for Data Analysis(Wes McKinney)
     
 
 * Theory

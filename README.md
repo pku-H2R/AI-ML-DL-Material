@@ -61,6 +61,9 @@
     * [CS224n(NLP)](https://web.stanford.edu/class/cs224n/index.html)
     * [CS230(DL)](https://web.stanford.edu/class/cs230/)
     * [CS234(RL)](http://web.stanford.edu/class/cs234/index.html)
+ 
+ * Others
+    * [Data School](https://www.youtube.com/dataschool)
 
 # Website
 

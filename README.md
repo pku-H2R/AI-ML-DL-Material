@@ -29,8 +29,8 @@
        * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
        * Python Deep Learning
        * Advanced Machine Learning with Python
-       * Introduction to Machine Learning with Python (Andreas Mueller & Sarah Guido)
        * Python for Data Analysis (Wes McKinney)
+       * Introduction to Machine Learning with Python (Andreas Mueller & Sarah Guido)
     
 
 * Theory

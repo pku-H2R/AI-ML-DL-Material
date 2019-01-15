@@ -26,7 +26,7 @@
     *  Python
        * Learning Python
        * Artificial intelligence with Python
-       * Python Machine Learning
+       * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
        * Python Deep Learning
        * Advanced Machine Learning with Python
        * Introduction to Machine Learning with Python (Andreas Mueller & Sarah Guido)
@@ -45,7 +45,6 @@
     * Mathematics
         * [Mathematics for Machine Learning](https://github.com/pku-H2R/AI-ML-DL-Material/blob/master/Book/Theory/mathematics/Mathematics%20for%20Machine%20Learning.pdf)
     * Others
-        * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
         * Neural Networks and Deep Learning
 
 # Course

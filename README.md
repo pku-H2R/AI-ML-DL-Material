@@ -14,6 +14,7 @@
 * [Skill_Set](#Skill_Set)
 
 
+
 # Book
 
 * Practice
@@ -98,7 +99,8 @@
 * News
     * [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen)
     * [MIT](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com)
- 
+* Book
+    * [All IT eBooks](http://www.allitebooks.com/) 
 
 # Conference
 

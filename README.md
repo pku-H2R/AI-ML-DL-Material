@@ -172,6 +172,10 @@
          * [PostgreSQL](http://www.postgresqltutorial.com/)
          * [Oracle](https://livesql.oracle.com/apex/f?p=590:1000)
      * NoSQL
+         * [MongoDB](https://university.mongodb.com/courses/catalog)
+         * [Cassandra](https://www.tutorialspoint.com/cassandra/index.htm)
+         * [Redis Enterprise](https://university.redislabs.com/)
+         * [Bigtable](https://www.coursera.org/learn/gcp-fundamentals)
      
 * Data Warehousing
 

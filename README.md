@@ -167,6 +167,10 @@
      
 * Database
      * SQL
+         * [MYSQL](http://www.mysqltutorial.org/)
+         * [Microsoft SQL Server](https://www.tutorialspoint.com/ms_sql_server/)
+         * [PostgreSQL](http://www.postgresqltutorial.com/)
+         * [Oracle](https://livesql.oracle.com/apex/f?p=590:1000)
      * NoSQL
      
 * Data Warehousing

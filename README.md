@@ -25,6 +25,7 @@
        *  Machine Learning Yearning_Chinese (Andrew Y.Ng)
        *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
        *  Programming Collective Intelligence
+       *  Deep Learning with PyTorch
     *  Python
        * Learning Python
        * Artificial intelligence with Python

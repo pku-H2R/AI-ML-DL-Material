@@ -77,6 +77,7 @@
     * [CS234(RL)](http://web.stanford.edu/class/cs234/index.html)
  
  * Others
+    * [MIT Mathematics](https://ocw.mit.edu/courses/mathematics/)
     * [Data School](https://www.youtube.com/dataschool)
 
 # Website

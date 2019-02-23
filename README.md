@@ -22,14 +22,10 @@
        *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
        *  Deep Learning with PyTorch
        *  Programming Collective Intelligence 
-       *  Dive into Deep Learning_English
-       *  Dive into Deep Learning_Chinese
-       *  [Deep Learning with Python_English](https://github.com/fchollet/deep-learning-with-python-notebooks)
-       *  Deep Learning with Python_Chinese
-       *  Machine Learning Yearning_English 
-       *  Machine Learning Yearning_Chinese 
-       *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow_English](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
-       *  Hands-On Machine Learning with Scikit-Learn & TensorFlow_Chinese
+       *  Dive into Deep Learning_English/Chinese
+       *  [Deep Learning with Python_English/Chinese](https://github.com/fchollet/deep-learning-with-python-notebooks)
+       *  Machine Learning Yearning_English/Chinese 
+       *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow_English/Chinese](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
     *  Python
        * Learning Python
        * Artificial intelligence with Python

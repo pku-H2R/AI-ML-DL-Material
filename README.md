@@ -19,9 +19,9 @@
 
 * Practice
     *  Machine Learning & Deep Learning
+       *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
        *  Deep Learning with PyTorch
        *  Programming Collective Intelligence 
-       *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
        *  Dive into Deep Learning_English
        *  Dive into Deep Learning_Chinese
        *  [Deep Learning with Python_English](https://github.com/fchollet/deep-learning-with-python-notebooks)

@@ -24,6 +24,8 @@
        *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
        *  [Deep Learning with Python_English](https://github.com/fchollet/deep-learning-with-python-notebooks)(Francois Chollet)
        *  Deep Learning with Python_Chinese
+       *  Dive into Deep Learning_English
+       *  Dive into Deep Learning_Chinese
        *  Machine Learning Yearning_English (Andrew Y.Ng)
        *  Machine Learning Yearning_Chinese (Andrew Y.Ng)
        *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow_English](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)

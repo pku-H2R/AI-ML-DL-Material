@@ -19,13 +19,15 @@
 
 * Practice
     *  Machine Learning & Deep Learning
+       *  Deep Learning with PyTorch
+       *  Programming Collective Intelligence 
        *  [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
-       *  [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)(Francois Chollet)
+       *  [Deep Learning with Python_English](https://github.com/fchollet/deep-learning-with-python-notebooks)(Francois Chollet)
+       *  Deep Learning with Python_Chinese
        *  Machine Learning Yearning_English (Andrew Y.Ng)
        *  Machine Learning Yearning_Chinese (Andrew Y.Ng)
-       *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
-       *  Programming Collective Intelligence
-       *  Deep Learning with PyTorch
+       *  [Hands-On Machine Learning with Scikit-Learn & TensorFlow_English](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow/blob/master/README.md)
+       *  Hands-On Machine Learning with Scikit-Learn & TensorFlow_English
     *  Python
        * Learning Python
        * Artificial intelligence with Python

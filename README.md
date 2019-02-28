@@ -79,6 +79,8 @@
  * Others
     * [MIT Mathematics](https://ocw.mit.edu/courses/mathematics/)
     * [Data School](https://www.youtube.com/dataschool)
+    * [MLcourse](https://mlcourse.ai/)
+
 
 # Website
 

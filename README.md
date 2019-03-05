@@ -71,9 +71,10 @@
 * [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)
 
 * Standford
+    * [CS229(ML)](http://cs229.stanford.edu/)
+    * [CS230(DL)](https://web.stanford.edu/class/cs230/)
     * [CS231n(CV)](http://cs231n.stanford.edu/)
     * [CS224n(NLP)](https://web.stanford.edu/class/cs224n/index.html)
-    * [CS230(DL)](https://web.stanford.edu/class/cs230/)
     * [CS234(RL)](http://web.stanford.edu/class/cs234/index.html)
  
  * Others

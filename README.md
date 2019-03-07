@@ -69,6 +69,12 @@
     * [Machine Learning Techniques](https://www.bilibili.com/video/av12469267/)
 
 * [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)
+    * [Machine Learning](https://www.bilibili.com/video/av10590361)
+    * [Deep Learning](https://www.bilibili.com/video/av9770302)
+    * [Deep Learning Theory](https://www.bilibili.com/video/av24015685)
+    * [Applied Deep Learning](http://v.qq.com/vplus/578e2d6f5e1fadc1/foldervideos/8n1000201qzzkx5)
+    * [GAN](https://www.bilibili.com/video/av24011528)
+    * [Deep Reinforcement Learning](https://www.bilibili.com/video/av24724071)
 
 * Standford
     * [CS229(ML)](http://cs229.stanford.edu/)

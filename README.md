@@ -142,6 +142,7 @@
       * [Essence of linear algebra](https://www.bilibili.com/video/av5987715)
       * [Mathematics for machine learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?ranMID=40328&ranEAID=9IqCvd3EEQc&ranSiteID=9IqCvd3EEQc-Lb0s3Sjt9SGydCvG2lkT1Q&siteID=9IqCvd3EEQc-Lb0s3Sjt9SGydCvG2lkT1Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
       * [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers?ranMID=40328&ranEAID=9IqCvd3EEQc&ranSiteID=9IqCvd3EEQc-6Qf0oOtbWYGZKSt_vfQHMQ&siteID=9IqCvd3EEQc-6Qf0oOtbWYGZKSt_vfQHMQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
+      * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
     * Probability Theory
     * Calculus
  * Statistics

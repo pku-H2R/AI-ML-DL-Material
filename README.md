@@ -196,5 +196,7 @@
          * [Redis Enterprise](https://university.redislabs.com/)
          * [Bigtable](https://www.coursera.org/learn/gcp-fundamentals)
      
-* Data Warehousing
+* Big Data
+     * Spark
+     * Hadoop
 

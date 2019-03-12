@@ -84,9 +84,10 @@
     * [CS234(RL)](http://web.stanford.edu/class/cs234/index.html)
  
  * Others
-    * [MIT Mathematics](https://ocw.mit.edu/courses/mathematics/)
-    * [Data School](https://www.youtube.com/dataschool)
     * [MLcourse](https://mlcourse.ai/)
+    * [Data School](https://www.youtube.com/dataschool)
+    * [MIT Mathematics](https://ocw.mit.edu/courses/mathematics/)
+    * [California Institute of Technology](https://work.caltech.edu/telecourse.html)
 
 
 # Website

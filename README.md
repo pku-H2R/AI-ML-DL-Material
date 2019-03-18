@@ -75,6 +75,7 @@
     * [Applied Deep Learning](http://v.qq.com/vplus/578e2d6f5e1fadc1/foldervideos/8n1000201qzzkx5)
     * [Deep Reinforcement Learning](https://www.bilibili.com/video/av24724071)
     * [Generative Adversarial Networks](https://www.bilibili.com/video/av24011528)
+    * [The next step for machine learning](https://www.bilibili.com/video/av46561029/)
 
 * Standford
     * [CS229(ML)](http://cs229.stanford.edu/)

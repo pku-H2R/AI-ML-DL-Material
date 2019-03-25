@@ -170,7 +170,8 @@
                * Pandas
                * matplotlib
             * Shallow Learning 
-               * Scikit-Learn
+               * Scikit-Learn[https://scikit-learn.org/stable/]
+               * Scikit-multilearn[http://scikit.ml/]
                * XgBoost
                * LightGBM
                * CatBoost

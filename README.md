@@ -159,7 +159,7 @@
 # Skill_Set
 
 * Programming Language
-     * Python
+     * [Python](https://docs.python.org/zh-cn/3/index.html)
          * Tool
             * PyCharm
             * Anaconda

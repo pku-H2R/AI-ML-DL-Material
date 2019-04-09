@@ -96,6 +96,12 @@
 * Practice
     * [Kaggle](https://www.kaggle.com/)
     * [Analytics Vidhya](https://www.analyticsvidhya.com/)
+    * [DrivenData](https://www.drivendata.org/)
+    * [InnoCentive](https://www.innocentive.com/our-solvers/)
+    * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
+    * [TunedIT](http://tunedit.org/challenges)
+    * [CodaLab](https://competitions.codalab.org/)
+    * [Data Science Challenge](https://www.datasciencechallenge.org/)
     * [KDD-CUP](https://www.kdd.org/kdd-cup?from=www.mlhub123.com)
     * [TianChi](https://tianchi.aliyun.com/home/?from=www.mlhub123.com)
     * [DataFoundation](https://www.datafountain.cn/#/?from=www.mlhub123.com)
@@ -109,9 +115,11 @@
 * Community
     * [DataTau](https://www.datatau.com/?from=www.mlhub123.com)
     * [Data School](https://www.dataschool.io/)
+    * [CrowdANALYTIX](https://www.crowdanalytix.com/jq/communityBlog/listBlog.html)
     * [PaperWeekly](http://www.paperweekly.site/?from=www.mlhub123.com)
     * [MathOverflow](https://mathoverflow.net/?from=www.mlhub123.com)
     * [Towards Data Science](https://towardsdatascience.com/)
+    
 * News
     * [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen)
     * [MIT](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com)
